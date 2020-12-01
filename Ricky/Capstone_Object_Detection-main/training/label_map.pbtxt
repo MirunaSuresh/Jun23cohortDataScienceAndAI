@@ -1,0 +1,34 @@
+item {
+  id: 1
+  name: 'Mercedes'
+}
+
+item {
+  id: 2
+  name: 'Red Bull Racing'
+}
+
+item {
+  id: 3
+  name: 'Racing Point'
+}
+
+item {
+  id: 4
+  name: 'McLaren'
+}
+
+item {
+  id: 5
+  name: 'Renault'
+}
+
+item {
+  id: 6
+  name: 'Ferrari'
+}
+
+item {
+  id: 7
+  name: 'accident'
+}
